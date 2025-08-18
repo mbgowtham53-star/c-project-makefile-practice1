@@ -5,7 +5,7 @@ int main() {
     int n;          // To store the number of elements
     float big;      // To store the largest number found
 
-    // Prompt the user for the number of elements
+    // Prompt the user for the number of elementsds
     printf("Enter the number of elements you wish to find the greatest element of: ");
     scanf("%d", &n);
 
